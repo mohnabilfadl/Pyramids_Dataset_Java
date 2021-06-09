@@ -1,11 +1,11 @@
 # Analysing pyramids dataset using Java
 
 ## Overview
-This is a project to analise pyramids dataset and show results in the java console 
+This is a project to analyise pyramids dataset and show results in the java console 
 
 
-![Image](files\1.png)
-![Image](files\2.png)
+![Image](files/1.png)
+![Image](files/2.png)
 
 
 ## Used tools:
@@ -15,7 +15,7 @@ This is a project to analise pyramids dataset and show results in the java conso
 * Kaggle datasets
 
 
-To get the data set follow this link[pyramids_dataset](https://www.kaggle.com/lsind18/egyptianpyramids).
+To get the data set follow this link  [pyramids_dataset](https://www.kaggle.com/lsind18/egyptianpyramids).
 
 
 ## Made by:
