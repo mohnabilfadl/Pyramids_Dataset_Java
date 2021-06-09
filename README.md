@@ -16,7 +16,7 @@ This is a project to analyise pyramids dataset and show results in the java cons
 * Kaggle datasets
 
 
-To get the data set follow this link  [pyramids_dataset](https://www.kaggle.com/lsind18/egyptianpyramids).
+To get the dataset follow this link  [pyramids_dataset](https://www.kaggle.com/lsind18/egyptianpyramids).
 
 
 ## Made by:
