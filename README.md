@@ -5,6 +5,7 @@ This is a project to analyise pyramids dataset and show results in the java cons
 
 
 ![Image](files/1.png)
+![Image](files/3.png)
 ![Image](files/2.png)
 
 
