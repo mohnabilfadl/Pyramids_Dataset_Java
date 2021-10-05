@@ -1,7 +1,7 @@
 # Analysing pyramids dataset using Java
 
 ## Overview
-This is a project to analyise pyramids dataset and show results in the java console 
+This is a project to analyise pyramids dataset and show results in the java console
 
 
 ![Image](files/1.png)
